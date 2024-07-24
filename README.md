@@ -45,5 +45,15 @@ This Power BI dashboard provides an in-depth analysis of sales, orders, and prof
 ## Conclusion
 
 This dashboard serves as a comprehensive tool for analyzing the superstore's performance, allowing users to make informed decisions based on detailed data insights. 
+![Screenshot 2024-07-24 160854](https://github.com/user-attachments/assets/0454e759-107b-4416-b3f4-a52fd9fe0b7a)
+![Screenshot 2024-07-24 160836](https://github.com/user-attachments/assets/e8bc5cbb-f82f-4fdc-bd1e-e2ea6d79960a)
+![Screenshot 2024-07-24 160821](https://github.com/user-attachments/assets/98a0cc72-3dc3-40ae-b8b2-babac2535081)
+![Screenshot 2024-07-24 160805](https://github.com/user-attachments/assets/0929099a-9910-424c-b5a1-0d8a3349fe08)
+![Screenshot 2024-07-24 160748](https://github.com/user-attachments/assets/e35324f6-7d6a-4225-8abf-a0725aaca64b)
+![Screenshot 2024-07-24 160734](https://github.com/user-attachments/assets/428410fc-afbf-462d-97e7-d4a955eeafd5)
+![Screenshot 2024-07-24 160718](https://github.com/user-attachments/assets/740e8fa4-e3a4-4649-9476-76a200306c67)
+![Screenshot 2024-07-24 160638](https://github.com/user-attachments/assets/aceec67a-84ca-4714-b35a-ea61c0295b2d)
+![Screenshot 2024-07-24 160620](https://github.com/user-attachments/assets/b02e1933-c3d1-4be1-b807-2cc3b0be3328)
+![Screenshot 2024-07-24 160907](https://github.com/user-attachments/assets/2d8eecad-2921-4e5f-b887-c79531d0f2ce)
 
 
